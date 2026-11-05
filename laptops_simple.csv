@@ -1,0 +1,944 @@
+brand,category,processor,ram,storage,screen_size,graphics,price
+Lenovo,Gaming,Intel,32,1024,16,Dedicated,189990
+Lenovo,Thin & Light,Intel,16,1024,15,Integrated,62350
+Asus,Thin & Light,AMD,16,512,15,Integrated,34990
+Lenovo,General,Intel,16,512,14,Integrated,56990
+Dell,General,Intel,16,512,14,Integrated,69990
+Dell,General,Intel,16,512,14,Integrated,37800
+Lenovo,General,AMD,8,512,14,Integrated,29990
+Acer,General,AMD,8,512,14,Integrated,33990
+Hp,Gaming,Intel,24,512,15,Dedicated,82999
+Hp,Gaming,Intel,16,512,15,Dedicated,79990
+Msi,General,AMD,8,512,14,Integrated,40990
+Ultimus,General,Intel,8,256,14,Integrated,16990
+Asus,Thin & Light,AMD,8,512,14,Integrated,30990
+Hp,General,Intel,8,512,15,Integrated,51999
+Msi,General,AMD,16,1024,16,Dedicated,124990
+Hp,General,Intel,16,512,15,Integrated,36623
+Lenovo,Business,Intel,16,512,14,Integrated,81990
+Hp,General,AMD,16,512,15,Integrated,33900
+Hp,General,AMD,8,512,15,Integrated,33390
+Chuwi,General,AMD,16,512,14,Integrated,39990
+Hp,General,AMD,16,512,15,Integrated,41990
+Dell,Gaming,Intel,64,2048,16,Dedicated,472990
+Dell,Gaming,Intel,32,2048,16,Dedicated,396490
+Hp,General,Intel,32,1024,14,Integrated,143900
+Lenovo,Gaming,Intel,24,512,15,Dedicated,104990
+Msi,Gaming,Intel,16,1024,15,Dedicated,134990
+Asus,General,Intel,16,1024,14,Integrated,185990
+Dell,General,AMD,16,512,16,Integrated,71490
+Asus,Thin & Light,AMD,8,512,15,Integrated,36990
+Apple,General,Apple,24,1024,14,Integrated,202990
+Apple,General,Apple,16,1024,14,Integrated,183490
+Apple,General,Apple,16,512,14,Integrated,164490
+Hp,General,Intel,16,512,14,Integrated,81990
+Lenovo,Thin & Light,AMD,8,512,15,Integrated,34490
+Lenovo,Thin & Light,Intel,16,512,16,Integrated,66990
+Hp,General,Intel,16,512,15,Integrated,74990
+Acer,General,Intel,16,512,15,Integrated,48500
+Asus,General,Intel,16,512,14,Integrated,120990
+Lenovo,Gaming,AMD,16,1024,15,Dedicated,110990
+Acer,General,Intel,8,512,14,Integrated,38980
+Lenovo,General,Intel,16,512,14,Integrated,47990
+Samsung,General,Intel,16,512,15,Integrated,43998
+Lenovo,Gaming,AMD,16,512,15,Dedicated,83290
+Asus,General,Intel,16,512,14,Integrated,119990
+Hp,General,Intel,16,512,15,Integrated,56999
+Hp,General,Intel,8,512,15,Integrated,50499
+Acer,General,Intel,16,512,14,Integrated,56990
+Hp,General,AMD,16,512,15,Integrated,45990
+Lenovo,General,AMD,8,512,15,Integrated,36190
+Lenovo,Thin & Light,AMD,16,512,15,Integrated,49490
+Hp,Thin & Light,Snapdragon,16,1024,16,Integrated,69990
+Hp,Gaming,AMD,24,1024,16,Dedicated,167990
+Lenovo,Gaming,Intel,16,512,15,Dedicated,87990
+Dell,General,AMD,8,512,15,Integrated,41990
+Lenovo,Thin & Light,AMD,16,512,14,Integrated,69990
+Hp,General,Intel,32,1024,16,Dedicated,172550
+Hp,General,Intel,32,1024,16,Dedicated,204450
+Microsoft,Thin & Light,Snapdragon,16,256,12,Integrated,88990
+Microsoft,Thin & Light,Snapdragon,16,512,12,Integrated,97990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,64990
+Hp,General,Intel,32,1024,16,Dedicated,225999
+Msi,Gaming,AMD,32,2048,18,Dedicated,339990
+Lenovo,Convertible,Intel,16,512,14,Integrated,86999
+Dell,General,AMD,16,512,14,Integrated,82490
+Dell,General,Intel,16,512,14,Integrated,68490
+Dell,Convertible,AMD,16,1024,14,Integrated,94990
+Dell,General,Intel,16,512,14,Integrated,77484
+Acer,Gaming,Intel,16,512,15,Dedicated,71990
+Hp,Gaming,Intel,16,512,15,Dedicated,69990
+Hp,Gaming,Intel,16,512,15,Dedicated,76990
+Lenovo,Convertible,AMD,32,1024,14,Integrated,109800
+Dell,General,Intel,16,512,15,Integrated,54499
+Acer,General,Intel,16,512,15,Integrated,50990
+Lenovo,Thin & Light,Snapdragon,16,512,15,Integrated,61590
+Msi,Gaming,Intel,16,1024,15,Dedicated,90990
+Lenovo,Gaming,Intel,16,512,15,Dedicated,89990
+Dell,General,Intel,16,512,15,Integrated,71150
+Hp,General,AMD,16,512,15,Integrated,40999
+Asus,Thin & Light,Intel,16,512,15,Integrated,51990
+Lenovo,Gaming,Intel,24,512,15,Dedicated,76990
+Hp,General,Intel,32,512,16,Dedicated,201600
+Lenovo,Business,AMD,8,512,16,Integrated,42490
+Dell,Business,Intel,16,512,15,Integrated,38790
+Msi,Gaming,Intel,16,1024,15,Dedicated,122990
+Acer,General,Intel,16,512,14,Integrated,40090
+Hp,General,AMD,8,512,15,Integrated,36899
+Hp,Business,Intel,8,512,14,Integrated,49990
+Lenovo,Gaming,Intel,16,1024,15,Dedicated,122114
+Lenovo,General,Intel,8,512,15,Integrated,39499
+Hp,Convertible,Intel,16,1024,14,Integrated,97649
+Dell,Business,Intel,16,512,15,Integrated,64899
+Hp,General,AMD,16,512,15,Integrated,32728
+Dell,Business,Intel,16,512,15,Integrated,38490
+Dell,General,Intel,8,512,15,Integrated,36490
+Asus,General,Intel,8,64,15,Integrated,15999
+Hp,Gaming,Intel,8,512,15,Dedicated,63900
+Hp,Convertible,Intel,32,1024,14,Integrated,129800
+Lenovo,General,Intel,8,512,14,Integrated,35990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,60990
+Lenovo,Business,Intel,8,512,16,Integrated,58490
+Dell,General,Intel,16,512,14,Integrated,112990
+Alienware,Gaming,Intel,16,1024,16,Dedicated,135000
+Hp,General,Intel,16,512,15,Integrated,39999
+Lenovo,Convertible,Intel,16,512,14,Integrated,81990
+Asus,Thin & Light,Intel,8,512,14,Integrated,34990
+Dell,Convertible,Intel,16,512,14,Integrated,107900
+Hp,Gaming,AMD,16,512,15,Dedicated,64250
+Msi,Gaming,Intel,16,512,15,Dedicated,95990
+Hp,General,Intel,32,1024,14,Integrated,122893
+Chuwi,General,Intel,8,256,14,Integrated,19990
+Acer,General,Intel,16,1024,14,Integrated,70990
+Msi,Gaming,Intel,16,1024,15,Dedicated,82590
+Walker,General,Intel,8,256,15,Integrated,16990
+Asus,Thin & Light,Intel,8,512,15,Integrated,36990
+Hp,Gaming,Intel,16,512,15,Dedicated,85990
+Asus,Thin & Light,AMD,16,512,15,Integrated,42008
+Asus,Thin & Light,AMD,16,512,14,Integrated,40990
+Hp,General,Intel,16,1024,16,Dedicated,91999
+Lenovo,General,Intel,16,512,14,Integrated,45990
+Msi,Gaming,Intel,16,1024,15,Dedicated,71990
+Dell,General,Intel,8,512,14,Integrated,59990
+Hp,General,Intel,16,1024,16,Integrated,132499
+Msi,Gaming,Intel,16,1024,15,Dedicated,59990
+Samsung,General,Intel,16,1024,14,Integrated,69999
+Lenovo,Gaming,Intel,16,1024,15,Dedicated,107990
+Msi,Gaming,Intel,16,1024,15,Dedicated,141016
+Hp,General,Intel,16,512,15,Integrated,51099
+Asus,Thin & Light,Intel,8,512,15,Integrated,35990
+Acer,Gaming,Intel,16,1024,15,Dedicated,82990
+Asus,Gaming,AMD,32,1024,16,Dedicated,97990
+Lenovo,Gaming,Intel,16,1024,15,Dedicated,134713
+Asus,Thin & Light,Intel,16,512,14,Integrated,64990
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,38800
+Asus,Gaming,AMD,16,512,15,Dedicated,70890
+Acer,Gaming,Intel,16,512,15,Dedicated,87990
+Hp,Convertible,Intel,16,512,14,Integrated,68999
+Lenovo,Gaming,Intel,16,1024,15,Dedicated,122490
+Lenovo,General,Intel,16,512,15,Integrated,36990
+Lenovo,Business,AMD,16,512,16,Integrated,52990
+Asus,Thin & Light,AMD,8,512,14,Integrated,35606
+Asus,Thin & Light,AMD,8,512,14,Integrated,32495
+Motorola,General,Intel,32,1024,14,Integrated,84990
+Motorola,General,Intel,16,1024,14,Integrated,64990
+Hp,General,Intel,16,512,14,Integrated,72900
+Hp,General,Intel,24,512,14,Integrated,71550
+Lenovo,Convertible,Intel,32,1024,14,Integrated,230490
+Msi,General,AMD,16,1024,16,Integrated,111990
+Msi,Gaming,Intel,32,1024,16,Dedicated,179990
+Acer,General,Intel,16,512,15,Integrated,57990
+Lenovo,General,Intel,16,512,14,Integrated,68390
+Lenovo,Thin & Light,Intel,16,1024,16,Integrated,87490
+Hp,Gaming,AMD,16,512,15,Dedicated,75400
+Asus,Thin & Light,AMD,8,512,15,Integrated,34990
+Hp,General,AMD,16,512,15,Integrated,45950
+Hp,Gaming,Intel,24,1024,16,Dedicated,125700
+Asus,Thin & Light,Intel,8,512,15,Integrated,24990
+Acer,Gaming,Intel,32,2048,16,Dedicated,229999
+Asus,Thin & Light,Intel,16,512,16,Integrated,98907
+Asus,Thin & Light,Intel,16,512,15,Integrated,42990
+Msi,Gaming,AMD,16,512,15,Dedicated,69990
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,39000
+Lenovo,Thin & Light,AMD,16,512,15,Integrated,47500
+Hp,Gaming,Intel,24,1024,16,Dedicated,127990
+Asus,Gaming,Intel,32,1024,16,Dedicated,79800
+Hp,Gaming,AMD,24,1024,16,Dedicated,149990
+Asus,Thin & Light,AMD,16,512,14,Integrated,76990
+Asus,Thin & Light,Intel,16,512,16,Integrated,63990
+Acer,Gaming,Intel,16,512,16,Dedicated,87999
+Asus,Thin & Light,AMD,16,512,14,Integrated,70990
+Lenovo,Business,Intel,16,512,14,Integrated,62490
+Msi,Gaming,AMD,16,512,15,Dedicated,67990
+Dell,Convertible,Intel,16,512,14,Integrated,85990
+Asus,Thin & Light,AMD,16,512,15,Integrated,48990
+Lenovo,Thin & Light,Intel,16,1024,14,Integrated,72500
+Lenovo,Business,Intel,8,512,14,Integrated,37880
+Hp,Gaming,Intel,32,1024,16,Dedicated,188900
+Hp,Gaming,Intel,24,1024,16,Dedicated,168617
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,39250
+Hp,Convertible,Intel,16,1024,14,Integrated,104990
+Asus,Thin & Light,Intel,16,512,15,Integrated,39990
+Asus,Thin & Light,Intel,16,1024,14,Integrated,71990
+Hp,Gaming,Intel,24,1024,16,Dedicated,149990
+Infinix,General,AMD,8,512,15,Integrated,32990
+Gigabyte,General,Intel,16,1024,16,Dedicated,91400
+Hp,Gaming,Intel,24,1024,16,Dedicated,164990
+Hp,General,Intel,8,512,15,Integrated,41700
+Acer,General,Intel,16,512,15,Integrated,43790
+Msi,General,Intel,8,512,14,Integrated,30480
+Msi,General,Intel,16,512,14,Integrated,44990
+Asus,Thin & Light,AMD,16,512,14,Integrated,61990
+Asus,Thin & Light,AMD,16,512,14,Integrated,87990
+Asus,Thin & Light,AMD,16,512,14,Integrated,82990
+Hp,Gaming,AMD,24,1024,16,Dedicated,157990
+Asus,General,Intel,32,512,15,Integrated,72990
+Hp,General,AMD,8,512,15,Integrated,32490
+Ultimus,General,AMD,8,256,14,Integrated,23990
+Acer,Thin & Light,Intel,16,512,14,Integrated,49990
+Hp,Convertible,Intel,16,1024,14,Integrated,116499
+Gigabyte,General,Intel,16,1024,16,Dedicated,97420
+Asus,Thin & Light,Intel,16,512,16,Integrated,80600
+Samsung,General,Intel,16,1024,15,Integrated,103990
+Samsung,General,Intel,16,512,15,Integrated,87990
+Msi,Convertible,AMD,32,1024,16,Integrated,144990
+Dell,General,AMD,16,512,14,Integrated,68490
+Dell,General,AMD,16,1024,14,Integrated,84490
+Lenovo,Business,AMD,8,512,16,Integrated,40000
+Infinix,General,AMD,16,512,15,Integrated,69990
+Infinix,General,AMD,16,512,15,Integrated,32990
+Infinix,General,AMD,8,512,15,Integrated,30990
+Msi,Gaming,Intel,16,512,15,Dedicated,60990
+Asus,Gaming,AMD,16,512,15,Dedicated,68990
+Msi,Gaming,Intel,16,512,15,Dedicated,114990
+Lenovo,Business,Intel,16,512,14,Integrated,61990
+Asus,Thin & Light,AMD,16,1024,15,Integrated,49990
+Lenovo,Business,AMD,8,512,16,Integrated,34990
+Asus,Thin & Light,Intel,16,512,15,Integrated,48990
+Msi,Gaming,AMD,16,512,15,Dedicated,61990
+Lenovo,General,AMD,16,512,14,Integrated,62490
+Acer,Thin & Light,Intel,16,1024,14,Integrated,73990
+Acer,Thin & Light,Intel,16,512,14,Integrated,66990
+Asus,General,Intel,8,128,15,Integrated,23799
+Asus,General,Intel,4,64,15,Integrated,15999
+Lenovo,Convertible,Intel,16,1024,14,Integrated,99990
+Dell,General,Intel,16,512,14,Integrated,36990
+Lenovo,General,Intel,8,512,15,Integrated,46017
+Hp,Gaming,AMD,16,512,15,Dedicated,82990
+Asus,Thin & Light,Snapdragon,16,512,16,Integrated,72990
+Lenovo,Business,Intel,32,1024,16,Dedicated,299999
+Asus,General,Intel,4,64,14,Integrated,14999
+Msi,Gaming,Intel,16,512,15,Dedicated,66990
+Lenovo,General,Intel,8,512,15,Integrated,44490
+Hp,General,Intel,16,512,15,Integrated,57990
+Hp,Gaming,AMD,16,512,15,Dedicated,60990
+Asus,Gaming,AMD,16,1024,16,Dedicated,89990
+Hp,Gaming,AMD,16,512,15,Dedicated,67990
+Acer,General,Intel,16,512,14,Integrated,39990
+Acer,General,Intel,16,512,14,Integrated,74990
+Hp,Gaming,AMD,16,512,15,Dedicated,58999
+Msi,Gaming,Intel,16,512,15,Dedicated,65990
+Msi,Gaming,Intel,16,512,15,Dedicated,67990
+Hp,General,Intel,8,1024,15,Integrated,54999
+Msi,Gaming,Intel,32,1024,17,Dedicated,209990
+Acer,Thin & Light,Intel,16,512,14,Integrated,56800
+Hp,General,AMD,8,512,15,Integrated,32999
+Hp,General,Intel,32,1024,15,Integrated,77490
+Dell,General,Intel,8,512,14,Integrated,32570
+Acer,Gaming,Intel,16,512,15,Dedicated,97999
+Asus,Thin & Light,Intel,16,512,14,Integrated,49990
+Msi,Gaming,Intel,32,2048,18,Dedicated,279990
+Alienware,Gaming,Intel,32,1024,16,Dedicated,311990
+Alienware,Gaming,Intel,32,1024,18,Dedicated,316990
+Lenovo,Gaming,AMD,24,512,15,Dedicated,71990
+Hp,General,AMD,8,512,14,Integrated,33999
+Lenovo,Business,AMD,8,512,16,Integrated,42990
+Msi,Gaming,Intel,16,1024,15,Dedicated,159990
+Hp,Gaming,Intel,16,512,15,Dedicated,66299
+Hp,General,Intel,16,512,15,Integrated,54990
+Acer,General,Intel,16,512,14,Integrated,48914
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,39990
+Msi,Gaming,AMD,16,1024,16,Dedicated,149990
+Hp,Gaming,AMD,16,512,15,Dedicated,77990
+Acer,Thin & Light,Intel,16,1024,14,Integrated,62990
+Msi,Gaming,Intel,32,2048,17,Dedicated,265990
+Hp,Gaming,Intel,16,512,15,Dedicated,64990
+Msi,Gaming,Intel,16,1024,15,Dedicated,102990
+Hp,General,Intel,16,512,14,Integrated,73499
+Lenovo,Thin & Light,AMD,8,512,15,Integrated,39490
+Lenovo,Gaming,Intel,12,512,15,Dedicated,64990
+Asus,Gaming,AMD,16,1024,15,Dedicated,75990
+Hp,Gaming,AMD,24,1024,16,Dedicated,138990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,47090
+Msi,Gaming,Intel,64,4096,18,Dedicated,490006
+Acer,Gaming,Intel,16,1024,16,Dedicated,204999
+Acer,Gaming,Intel,16,512,15,Dedicated,72999
+Lenovo,Thin & Light,AMD,16,512,14,Integrated,59990
+Lenovo,Convertible,AMD,24,1024,14,Integrated,102980
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,46890
+Lenovo,Convertible,Intel,32,1024,14,Integrated,199990
+Acer,Gaming,Intel,16,1024,16,Dedicated,194999
+Alienware,Gaming,Intel,32,2048,18,Dedicated,414490
+Alienware,Gaming,Intel,32,2048,16,Dedicated,403490
+Msi,Gaming,AMD,16,1024,16,Dedicated,197990
+Lenovo,Thin & Light,Intel,16,512,14,Integrated,58990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,59990
+Hp,Gaming,Intel,16,512,16,Dedicated,77990
+Msi,General,Intel,16,512,14,Integrated,37999
+Lenovo,Thin & Light,Intel,24,1024,15,Integrated,63390
+Hp,Gaming,Intel,16,1024,16,Dedicated,132990
+Hp,General,Intel,16,512,15,Integrated,59499
+Lenovo,Thin & Light,Intel,24,1024,15,Integrated,65990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,55900
+Msi,Gaming,Intel,16,1024,15,Dedicated,77990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,71091
+Dell,Business,Intel,16,512,14,Integrated,92511
+Hp,General,Intel,16,1024,16,Integrated,69999
+Asus,Thin & Light,Snapdragon,16,512,14,Integrated,54990
+Msi,Gaming,Intel,16,1024,16,Dedicated,164990
+Msi,Gaming,AMD,16,1024,16,Dedicated,159990
+Msi,Gaming,Intel,32,1024,16,Dedicated,299990
+Hp,Gaming,AMD,24,1024,15,Dedicated,99990
+Lenovo,Thin & Light,Snapdragon,16,512,15,Integrated,54990
+Lenovo,Business,Intel,32,1024,16,Dedicated,251500
+Lenovo,Business,Intel,32,1024,16,Dedicated,188490
+Asus,Gaming,Intel,16,512,16,Dedicated,108990
+Lenovo,Thin & Light,AMD,16,512,13,Integrated,59990
+Asus,Gaming,Intel,16,512,16,Dedicated,100990
+Lenovo,Business,AMD,16,512,16,Integrated,47966
+Hp,General,Intel,16,512,15,Integrated,54499
+Acer,Gaming,Intel,16,1024,16,Dedicated,149999
+Acer,Gaming,Intel,16,1024,16,Dedicated,164999
+Hp,Convertible,Intel,32,1024,14,Integrated,163900
+Lenovo,Convertible,Intel,16,1024,14,Integrated,114990
+Acer,Gaming,Intel,8,512,16,Dedicated,79990
+Acer,Gaming,Intel,8,512,16,Dedicated,84999
+Lenovo,Gaming,Intel,32,1024,16,Dedicated,251990
+Acer,Gaming,Intel,8,512,16,Dedicated,67999
+Acer,Gaming,Intel,16,512,16,Dedicated,74999
+Lenovo,Business,Intel,8,512,16,Integrated,71490
+Hp,General,Intel,12,512,15,Integrated,36999
+Acer,Thin & Light,Intel,16,1024,14,Integrated,61999
+Hp,Gaming,Intel,16,512,15,Dedicated,92900
+Asus,Thin & Light,Intel,8,512,15,Integrated,48990
+Asus,Thin & Light,Intel,16,512,15,Integrated,55990
+Msi,Gaming,Intel,16,1024,17,Dedicated,177990
+Msi,Gaming,Intel,16,1024,16,Dedicated,159990
+Lenovo,Business,Intel,8,512,16,Integrated,69990
+Lenovo,General,Intel,8,512,15,Integrated,44990
+Msi,Gaming,Intel,16,1024,16,Dedicated,199990
+Hp,General,Intel,8,512,14,Integrated,25990
+Lenovo,Business,Intel,32,512,13,Integrated,180490
+Msi,Gaming,Intel,16,512,15,Dedicated,102990
+Asus,Thin & Light,Intel,16,512,16,Dedicated,74547
+Hp,Gaming,Intel,24,1024,16,Dedicated,129990
+Lenovo,Business,Intel,32,1024,16,Dedicated,160490
+Lenovo,Business,Intel,32,1024,13,Integrated,167490
+Lenovo,Business,Intel,16,512,14,Integrated,84490
+Lenovo,Business,Intel,16,512,14,Integrated,89990
+Asus,General,Intel,8,128,14,Integrated,24990
+Asus,General,AMD,16,512,14,Integrated,89990
+Dell,Business,Intel,16,512,15,Integrated,40990
+Acer,Thin & Light,Intel,16,512,14,Integrated,57990
+Lenovo,Convertible,AMD,24,1024,14,Integrated,95990
+Lenovo,Convertible,Intel,16,1024,14,Integrated,85990
+Lenovo,Business,Intel,32,1024,14,Integrated,157490
+Lenovo,Gaming,Intel,32,1024,16,Integrated,124990
+Hp,General,Intel,16,512,15,Integrated,66999
+Msi,Gaming,Intel,32,2048,17,Dedicated,259990
+Asus,Thin & Light,Intel,16,1024,15,Integrated,68990
+Asus,Gaming,Intel,16,512,16,Dedicated,119990
+Alienware,Gaming,Intel,16,1024,16,Dedicated,130990
+Msi,Gaming,Intel,16,1024,16,Dedicated,219990
+Hp,Gaming,AMD,16,512,15,Dedicated,70990
+Lenovo,Thin & Light,Intel,16,512,14,Integrated,79990
+Hp,General,Intel,8,512,15,Integrated,38990
+Hp,Business,AMD,16,512,13,Integrated,75000
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,37990
+Hp,General,Intel,8,512,15,Integrated,37500
+Hp,Gaming,Intel,24,1024,15,Dedicated,102990
+Lenovo,Thin & Light,Intel,16,512,14,Integrated,64990
+Lenovo,Thin & Light,AMD,16,512,15,Integrated,48990
+Lenovo,Thin & Light,AMD,8,512,15,Integrated,32490
+Lenovo,Business,Intel,16,1024,16,Integrated,135490
+Lenovo,Business,Intel,32,1024,16,Dedicated,152490
+Lenovo,Business,Intel,16,512,14,Integrated,72490
+Hp,General,AMD,16,512,15,Integrated,48990
+Acer,General,AMD,16,512,15,Integrated,44990
+Acer,General,Intel,16,512,15,Integrated,33190
+Acer,General,Intel,8,512,15,Integrated,37900
+Hp,General,AMD,16,512,15,Integrated,63990
+Acer,General,Intel,16,512,15,Integrated,61999
+Hp,General,AMD,16,512,14,Integrated,62990
+Lenovo,General,Intel,8,512,14,Integrated,30990
+Acer,General,AMD,16,1024,15,Integrated,49464
+Acer,General,Intel,16,1024,15,Integrated,56990
+Msi,General,Intel,16,512,14,Integrated,32990
+Msi,General,Intel,8,512,14,Integrated,40990
+Lenovo,Convertible,Intel,32,1024,14,Integrated,134990
+Lenovo,Convertible,Intel,32,1024,14,Integrated,197490
+Hp,Gaming,Intel,16,512,15,Dedicated,66990
+Hp,Gaming,Intel,16,512,16,Dedicated,82850
+Asus,Gaming,Intel,16,1024,16,Dedicated,154990
+Asus,Gaming,Intel,16,1024,16,Dedicated,109990
+Asus,Gaming,AMD,16,1024,16,Dedicated,139990
+Hp,Thin & Light,Snapdragon,16,512,14,Integrated,65990
+Hp,Thin & Light,Snapdragon,16,1024,14,Integrated,68990
+Lenovo,General,Intel,8,512,15,Integrated,33990
+Lenovo,Convertible,Intel,16,512,14,Integrated,88990
+Hp,Gaming,AMD,16,512,15,Dedicated,58990
+Msi,General,Intel,32,1024,14,Integrated,114990
+Lenovo,Gaming,Intel,24,512,15,Dedicated,94990
+Lenovo,Gaming,AMD,24,512,15,Dedicated,71290
+Lenovo,Gaming,AMD,12,512,15,Dedicated,63990
+Asus,Gaming,Intel,32,1024,16,Dedicated,299990
+Hp,General,Intel,16,1024,15,Integrated,59999
+Msi,Gaming,AMD,32,2048,18,Dedicated,269990
+Msi,General,Intel,16,1024,15,Integrated,80990
+Hp,General,Intel,16,512,15,Integrated,62490
+Msi,General,Intel,32,1024,16,Dedicated,174990
+Asus,Thin & Light,Snapdragon,16,512,14,Integrated,65990
+Asus,Thin & Light,Intel,16,512,14,Integrated,72990
+Lenovo,General,Intel,4,64,11,Integrated,14990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,46990
+Asus,Thin & Light,Intel,16,512,14,Integrated,82990
+Lenovo,General,Intel,8,512,14,Integrated,26358
+Lenovo,Gaming,AMD,12,512,15,Dedicated,68990
+Asus,Thin & Light,AMD,16,512,15,Integrated,45990
+Lenovo,Thin & Light,AMD,8,512,15,Integrated,32990
+Lenovo,Thin & Light,AMD,16,512,15,Integrated,40000
+Asus,Gaming,Intel,16,1024,16,Dedicated,184990
+Asus,Gaming,AMD,16,512,15,Dedicated,67990
+Asus,Gaming,Intel,16,512,16,Dedicated,86990
+Asus,Gaming,AMD,16,1024,14,Dedicated,179990
+Asus,Gaming,Intel,32,1024,16,Dedicated,209990
+Asus,Gaming,AMD,16,1024,16,Dedicated,164990
+Asus,Gaming,AMD,16,1024,16,Dedicated,159990
+Asus,Gaming,Intel,32,1024,16,Dedicated,169990
+Asus,Gaming,Intel,16,1024,16,Dedicated,139990
+Msi,General,Intel,16,1024,15,Integrated,52949
+Hp,General,Intel,8,512,15,Integrated,36500
+Hp,General,AMD,16,512,15,Integrated,49790
+Hp,General,AMD,16,512,15,Integrated,60990
+Lenovo,Convertible,Intel,16,1024,14,Integrated,93990
+Lenovo,Gaming,Intel,24,512,15,Dedicated,117990
+Msi,General,AMD,16,1024,15,Integrated,79990
+Asus,Thin & Light,AMD,8,512,15,Integrated,40990
+Hp,General,Intel,8,512,15,Integrated,34990
+Lenovo,Gaming,AMD,24,512,15,Dedicated,69990
+Asus,Thin & Light,Intel,8,512,15,Integrated,30990
+Asus,Thin & Light,Intel,16,512,14,Integrated,55990
+Lenovo,Convertible,Intel,16,1024,14,Integrated,110990
+Lenovo,Gaming,Intel,12,512,15,Dedicated,61490
+Lenovo,Gaming,Intel,12,512,15,Dedicated,59490
+Asus,Thin & Light,Intel,8,512,14,Integrated,47900
+Hp,General,Intel,16,512,15,Integrated,55990
+Msi,General,Intel,16,1024,15,Integrated,74990
+Hp,General,Intel,16,512,14,Integrated,55000
+Lenovo,Business,Intel,16,512,14,Integrated,81300
+Lenovo,Business,Intel,16,512,14,Integrated,68475
+Ultimus,General,Intel,8,512,14,Integrated,30109
+Acer,General,Intel,16,512,15,Integrated,34990
+Lenovo,Business,Intel,8,512,14,Integrated,67800
+Lenovo,Convertible,Intel,32,1024,14,Integrated,135990
+Acer,General,AMD,16,1024,15,Integrated,37990
+Lenovo,Business,AMD,16,512,16,Integrated,45990
+Acer,Thin & Light,Intel,16,512,14,Integrated,59990
+Hp,General,Intel,8,512,15,Integrated,36499
+Acer,General,AMD,16,1024,15,Integrated,39990
+Hp,General,Intel,16,512,16,Integrated,61990
+Lenovo,Business,Intel,16,1024,14,Dedicated,146000
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,35600
+Lenovo,Business,Intel,16,512,14,Integrated,89999
+Lenovo,Business,Intel,16,1024,14,Integrated,134207
+Hp,Gaming,AMD,8,512,15,Dedicated,51990
+Lenovo,Convertible,Intel,16,1024,14,Integrated,102490
+Hp,General,Intel,8,512,14,Integrated,36490
+Msi,General,Intel,16,1024,15,Dedicated,89990
+Msi,General,Intel,16,1024,15,Dedicated,109990
+Hp,General,Intel,8,512,15,Integrated,35499
+Lenovo,Convertible,Intel,32,1024,14,Integrated,112990
+Hp,General,Intel,32,512,15,Integrated,56800
+Hp,General,Intel,16,1024,14,Integrated,56990
+Asus,Convertible,Intel,16,512,14,Integrated,66990
+Hp,General,Intel,16,1024,15,Integrated,58990
+Hp,Business,Intel,16,512,14,Integrated,35990
+Hp,Business,Intel,8,512,14,Integrated,35990
+Lenovo,Business,AMD,16,512,14,Integrated,52005
+Lenovo,Business,Intel,16,512,14,Integrated,96250
+Acer,General,AMD,32,1024,14,Integrated,64990
+Acer,General,Intel,32,1024,14,Integrated,76900
+Alienware,Gaming,Intel,32,1024,18,Dedicated,372490
+Lenovo,General,Intel,8,512,15,Integrated,42980
+Hp,General,Intel,16,512,15,Integrated,52490
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,54700
+Hp,General,Intel,8,512,15,Integrated,38464
+Hp,General,Intel,16,1024,15,Integrated,64990
+Hp,General,Intel,12,512,15,Integrated,48990
+Hp,General,Intel,12,512,15,Integrated,37990
+Asus,Gaming,AMD,32,2048,14,Dedicated,274990
+Acer,General,AMD,16,512,14,Integrated,31990
+Asus,Gaming,AMD,16,1024,16,Dedicated,219990
+Asus,Gaming,Intel,32,1024,16,Dedicated,249990
+Asus,Gaming,AMD,16,1024,13,Dedicated,199990
+Asus,Gaming,Intel,32,2048,16,Dedicated,349990
+Asus,Gaming,Intel,64,2048,18,Dedicated,449990
+Asus,Gaming,Intel,32,2048,16,Dedicated,359850
+Acer,General,Intel,8,512,15,Integrated,38890
+Acer,General,Intel,16,512,15,Integrated,39990
+Lenovo,Business,Intel,16,1024,14,Integrated,94450
+Hp,Business,Intel,16,512,14,Integrated,34990
+Lenovo,Thin & Light,Snapdragon,16,1024,14,Integrated,79990
+Acer,General,AMD,16,512,15,Integrated,42990
+Hp,General,Intel,16,512,15,Integrated,39990
+Hp,General,Intel,8,512,15,Integrated,36990
+Lenovo,Convertible,Intel,16,1024,14,Integrated,83990
+Asus,Thin & Light,Intel,8,512,15,Integrated,40990
+Msi,Gaming,AMD,16,512,15,Dedicated,62990
+Lenovo,Business,AMD,16,512,14,Integrated,54900
+Asus,Gaming,AMD,16,1024,15,Dedicated,70990
+Asus,Thin & Light,Intel,16,512,15,Integrated,44990
+Hp,General,Intel,16,512,16,Integrated,64990
+Dell,General,Intel,16,1024,13,Integrated,100990
+Asus,Gaming,Intel,16,512,16,Dedicated,93990
+Msi,Gaming,Intel,64,4096,18,Dedicated,429990
+Lenovo,Convertible,AMD,32,1024,14,Integrated,113990
+Lenovo,Thin & Light,AMD,24,1024,14,Integrated,86990
+Lenovo,Thin & Light,Intel,16,512,14,Integrated,55900
+Asus,General,Intel,16,512,14,Integrated,59990
+Asus,Thin & Light,Intel,16,512,14,Integrated,58990
+Asus,Thin & Light,Intel,16,512,14,Integrated,68990
+Asus,General,Intel,32,1024,14,Integrated,84990
+Asus,General,Intel,32,512,14,Integrated,72990
+Asus,General,Intel,32,512,14,Integrated,58990
+Asus,General,Intel,8,512,14,Integrated,36990
+Asus,General,Intel,16,512,15,Integrated,38990
+Asus,General,Intel,16,512,14,Integrated,38990
+Asus,General,Intel,8,512,15,Integrated,36990
+Asus,General,Intel,16,512,15,Integrated,51990
+Asus,General,Intel,16,512,15,Integrated,65990
+Hp,Gaming,Intel,16,1024,16,Dedicated,134990
+Msi,Gaming,Intel,16,512,15,Dedicated,57990
+Motorola,General,Intel,16,1024,14,Integrated,66990
+Motorola,General,Intel,16,512,14,Integrated,64990
+Hp,General,Intel,16,512,14,Integrated,54489
+Asus,Thin & Light,Intel,16,512,16,Integrated,55670
+Msi,Gaming,Intel,64,6144,18,Dedicated,605990
+Lenovo,Thin & Light,AMD,16,512,15,Integrated,47990
+Lenovo,Thin & Light,AMD,16,512,13,Integrated,64990
+Msi,Gaming,Intel,32,1024,16,Dedicated,226990
+Lenovo,Thin & Light,AMD,16,512,15,Integrated,42990
+Hp,Gaming,AMD,16,512,15,Dedicated,64990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,55000
+Hp,Gaming,Intel,16,512,15,Dedicated,74880
+Asus,Thin & Light,Intel,16,512,16,Integrated,61990
+Hp,General,Intel,8,512,14,Integrated,49990
+Motorola,General,Intel,16,512,14,Integrated,54990
+Hp,General,AMD,16,512,13,Integrated,80499
+Hp,Convertible,Intel,16,512,14,Integrated,94087
+Hp,Convertible,Intel,32,1024,14,Integrated,138999
+Hp,Convertible,Intel,16,512,14,Integrated,114499
+Dell,General,Intel,32,1024,14,Dedicated,351493
+Hp,Gaming,Intel,32,1024,16,Dedicated,309990
+Hp,General,AMD,16,512,16,Integrated,65094
+Hp,General,AMD,16,512,16,Integrated,81990
+Hp,Gaming,AMD,16,512,15,Dedicated,65990
+Lenovo,Gaming,Intel,12,512,15,Dedicated,95090
+Lenovo,General,Intel,8,512,14,Integrated,35490
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,34889
+Dell,General,Intel,16,1024,16,Integrated,92990
+Ultimus,General,Intel,4,128,14,Integrated,12490
+Msi,General,Intel,16,512,14,Integrated,45990
+Asus,General,AMD,24,1024,16,Integrated,127586
+Msi,General,Intel,8,512,15,Integrated,42990
+Msi,General,AMD,16,512,15,Integrated,44990
+Lenovo,Thin & Light,AMD,16,512,15,Integrated,42490
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,67990
+Lenovo,Gaming,Intel,32,1024,14,Integrated,110990
+Asus,Thin & Light,Intel,8,512,14,Dedicated,57524
+Msi,General,AMD,8,512,15,Integrated,37990
+Dell,Gaming,Intel,32,1024,16,Dedicated,288490
+Acer,General,AMD,8,256,15,Integrated,27999
+Dell,General,Intel,16,512,16,Integrated,90545
+Hp,Gaming,AMD,8,512,15,Dedicated,62999
+Hp,General,Intel,16,512,15,Integrated,66990
+Hp,General,Intel,16,512,15,Integrated,44862
+Hp,Business,Intel,16,512,15,Integrated,52978
+Lenovo,General,AMD,16,512,15,Integrated,35490
+Msi,General,AMD,16,512,14,Integrated,49990
+Msi,General,AMD,8,512,14,Integrated,38990
+Msi,General,AMD,16,512,15,Integrated,37989
+Msi,Gaming,AMD,16,512,15,Dedicated,81929
+Msi,Gaming,Intel,16,512,15,Dedicated,62990
+Msi,General,AMD,16,512,14,Integrated,39490
+Msi,General,Intel,16,512,15,Integrated,35511
+Asus,Gaming,Intel,16,1024,16,Dedicated,135990
+Hp,General,AMD,16,512,14,Integrated,46499
+Lenovo,Business,AMD,16,512,14,Integrated,53490
+Hp,Convertible,AMD,32,1024,14,Integrated,141999
+Dell,Business,Intel,16,512,15,Integrated,37490
+Hp,General,AMD,8,512,14,Integrated,25843
+Asus,General,Intel,4,128,14,Integrated,23799
+Hp,Convertible,Intel,16,1024,14,Integrated,88699
+Asus,Thin & Light,Intel,16,512,16,Integrated,66890
+Asus,Gaming,AMD,16,512,15,Dedicated,67400
+Asus,Gaming,Intel,16,512,16,Dedicated,70990
+Asus,Gaming,AMD,16,1024,14,Dedicated,149990
+Lenovo,General,Intel,8,512,15,Integrated,32990
+Asus,Thin & Light,AMD,8,512,15,Integrated,30740
+Asus,Thin & Light,AMD,8,512,15,Integrated,34750
+Lenovo,Gaming,Intel,24,512,15,Dedicated,122990
+Samsung,General,Intel,16,512,14,Integrated,131990
+Samsung,General,Intel,32,1024,14,Integrated,171990
+Samsung,General,Intel,32,1024,16,Integrated,181990
+Samsung,General,Intel,16,512,16,Integrated,155990
+Samsung,General,Intel,16,512,15,Integrated,107990
+Samsung,General,Intel,32,1024,16,Integrated,195990
+Samsung,General,Intel,16,512,16,Integrated,163990
+Samsung,General,Intel,16,512,14,Integrated,139990
+Samsung,General,Intel,32,1024,15,Integrated,154990
+Samsung,General,Intel,16,1024,15,Integrated,134999
+Samsung,General,Intel,16,512,15,Integrated,122990
+Acer,Gaming,Intel,16,512,15,Dedicated,62115
+Acer,Gaming,Intel,16,1024,15,Dedicated,66999
+Acer,Gaming,Intel,16,1024,16,Dedicated,155000
+Lenovo,Convertible,Snapdragon,32,1024,14,Integrated,92990
+Apple,Thin & Light,Apple,24,512,15,Integrated,157490
+Apple,Thin & Light,Apple,16,512,15,Integrated,138490
+Apple,Thin & Light,Apple,16,256,15,Integrated,119490
+Apple,Thin & Light,Apple,24,512,13,Integrated,130900
+Apple,Thin & Light,Apple,16,512,13,Integrated,110900
+Asus,Thin & Light,Intel,8,512,14,Integrated,43990
+Asus,Thin & Light,Intel,8,512,14,Integrated,34750
+Asus,Thin & Light,Intel,16,512,15,Integrated,64990
+Hp,Gaming,Intel,16,512,15,Dedicated,65047
+Hp,Gaming,Intel,16,512,15,Dedicated,75119
+Msi,General,Intel,16,512,14,Integrated,35999
+Hp,General,Intel,16,512,14,Integrated,87999
+Hp,General,Intel,16,512,14,Integrated,78990
+Hp,Convertible,Intel,16,512,14,Integrated,74490
+Hp,Convertible,Intel,16,1024,14,Integrated,73490
+Lenovo,Gaming,Intel,16,512,15,Dedicated,91790
+Lenovo,Gaming,Intel,12,512,15,Dedicated,58770
+Hp,General,Intel,16,512,14,Integrated,61999
+Hp,General,Intel,8,512,15,Integrated,46290
+Lenovo,Gaming,Intel,16,512,15,Dedicated,74990
+Asus,Thin & Light,Snapdragon,16,512,14,Integrated,89990
+Asus,Thin & Light,Snapdragon,16,512,14,Integrated,83990
+Asus,Thin & Light,Snapdragon,16,512,16,Integrated,58990
+Dell,General,Intel,16,512,16,Integrated,63990
+Asus,Thin & Light,Intel,16,512,16,Dedicated,64950
+Asus,Thin & Light,Intel,16,512,15,Integrated,38990
+Hp,Gaming,AMD,16,512,15,Dedicated,61900
+Lenovo,Thin & Light,AMD,16,512,13,Integrated,59699
+Lenovo,Business,AMD,8,512,14,Integrated,48990
+Hp,Gaming,Intel,16,512,15,Dedicated,67990
+Hp,Gaming,Intel,16,512,15,Dedicated,64490
+Hp,General,Intel,16,512,15,Integrated,56900
+Asus,Thin & Light,Intel,16,512,14,Integrated,99990
+Asus,Thin & Light,Intel,16,512,14,Integrated,84990
+Asus,Thin & Light,Intel,16,512,14,Integrated,66990
+Asus,Gaming,Intel,16,512,16,Dedicated,77890
+Asus,Convertible,Intel,16,512,14,Integrated,101990
+Asus,General,Intel,32,1024,14,Integrated,244980
+Asus,General,Intel,32,1024,14,Integrated,117990
+Asus,Thin & Light,Intel,16,512,16,Integrated,69990
+Asus,General,Intel,16,1024,14,Integrated,93749
+Asus,General,Intel,32,1024,14,Integrated,126990
+Hp,General,AMD,8,512,15,Integrated,31981
+Asus,Thin & Light,Intel,16,512,16,Integrated,67999
+Dell,General,AMD,16,512,15,Integrated,41994
+Hp,General,Intel,8,512,15,Integrated,35800
+Hp,General,Intel,16,512,15,Integrated,51900
+Hp,Gaming,AMD,16,1024,15,Dedicated,101495
+Asus,Convertible,Intel,16,512,14,Integrated,84990
+Asus,Thin & Light,Intel,16,512,15,Integrated,53990
+Lenovo,General,Intel,16,512,14,Integrated,73490
+Hp,Gaming,Intel,16,512,15,Dedicated,72990
+Acer,General,Intel,8,256,11,Integrated,17990
+Acer,General,Intel,8,512,11,Integrated,22899
+Acer,General,Intel,8,128,11,Integrated,15990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,45750
+Acer,General,Intel,16,512,14,Integrated,60990
+Dell,Business,Intel,8,512,15,Integrated,35190
+Acer,General,Intel,16,1024,15,Integrated,48999
+Lenovo,Business,Intel,16,512,15,Dedicated,122000
+Lenovo,General,AMD,16,512,15,Integrated,39000
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,26890
+Acer,General,Intel,16,512,15,Integrated,38719
+Acer,General,Intel,16,256,15,Integrated,39990
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,47000
+Lenovo,Thin & Light,Intel,16,1024,16,Integrated,86990
+Msi,General,Intel,32,1024,13,Integrated,119990
+Msi,Gaming,Intel,16,512,15,Dedicated,63495
+Asus,General,Intel,16,1024,14,Integrated,89999
+Asus,Gaming,Intel,32,2048,16,Dedicated,424990
+Dell,Business,Intel,8,512,14,Integrated,53490
+Dell,Business,Intel,8,512,14,Integrated,58990
+Lenovo,Convertible,AMD,32,1024,14,Integrated,128900
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,54570
+Acer,General,Intel,16,512,15,Integrated,43290
+Lenovo,Gaming,Intel,16,512,15,Dedicated,78700
+Msi,Gaming,Intel,16,1024,15,Dedicated,72990
+Hp,General,AMD,8,512,15,Integrated,33151
+Hp,General,Intel,16,1024,16,Dedicated,143999
+Dell,Business,Intel,16,512,14,Integrated,65900
+Hp,Business,Intel,16,512,15,Integrated,101990
+Dell,General,Intel,16,512,13,Integrated,180490
+Hp,Convertible,Intel,16,1024,14,Integrated,168569
+Hp,Convertible,Intel,32,1024,14,Integrated,191925
+Hp,General,Intel,16,1024,14,Dedicated,131999
+Lenovo,Convertible,Intel,32,1024,15,Integrated,147750
+Dell,Business,Intel,8,512,14,Integrated,87511
+Hp,General,AMD,8,512,15,Integrated,27891
+Hp,Business,Intel,16,512,14,Integrated,74990
+Acer,General,AMD,8,512,15,Integrated,33490
+Dell,General,Intel,32,1024,13,Integrated,210990
+Dell,Business,Intel,16,512,14,Integrated,55990
+Hp,Business,Intel,16,512,14,Integrated,36900
+Hp,General,AMD,8,512,14,Integrated,29249
+Hp,Business,Intel,8,512,15,Integrated,33990
+Dell,Business,Intel,16,512,14,Integrated,64499
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,59490
+Dell,General,Intel,16,1024,14,Integrated,70800
+Hp,Gaming,Intel,16,1024,16,Dedicated,114206
+Hp,Gaming,Intel,16,1024,16,Dedicated,135990
+Dell,Thin & Light,Snapdragon,16,512,14,Integrated,91490
+Dell,Business,Intel,16,512,15,Integrated,37990
+Acer,Gaming,AMD,16,512,16,Dedicated,61490
+Dell,Business,Intel,8,512,14,Integrated,38511
+Dell,Business,Intel,16,512,14,Integrated,45800
+Acer,General,Intel,16,512,14,Integrated,42990
+Dell,Gaming,Intel,32,1024,16,Dedicated,448490
+Acer,Thin & Light,Snapdragon,16,512,14,Integrated,77990
+Acer,Thin & Light,Intel,16,1024,14,Integrated,82500
+Acer,Thin & Light,Intel,16,512,14,Integrated,89999
+Hp,Thin & Light,Snapdragon,16,512,14,Integrated,87999
+Asus,Thin & Light,Intel,16,512,15,Integrated,67790
+Acer,General,AMD,8,512,14,Integrated,34916
+Asus,Thin & Light,Intel,8,512,15,Integrated,25595
+Dell,Gaming,Intel,32,1024,16,Dedicated,394990
+Hp,General,Intel,16,1024,14,Integrated,132499
+Lenovo,Thin & Light,AMD,8,512,14,Integrated,43992
+Acer,General,Intel,16,512,15,Integrated,48990
+Acer,General,Intel,8,512,15,Integrated,33900
+Acer,General,Intel,16,512,14,Integrated,32990
+Dell,General,Intel,16,512,16,Integrated,71589
+Apple,Thin & Light,Apple,16,256,15,Integrated,104994
+Apple,Thin & Light,Apple,24,512,13,Integrated,127653
+Apple,Thin & Light,Apple,24,512,15,Integrated,154287
+Apple,General,Apple,36,1024,16,Integrated,349900
+Lenovo,General,Intel,16,512,15,Integrated,35500
+Lenovo,Business,Intel,16,512,16,Integrated,66000
+Dell,General,Intel,16,512,16,Integrated,70990
+Dell,Thin & Light,Snapdragon,16,512,14,Integrated,82990
+Apple,General,Apple,48,512,16,Integrated,279990
+Apple,General,Apple,24,512,16,Integrated,239990
+Apple,General,Apple,36,1024,14,Integrated,289990
+Apple,General,Apple,24,1024,14,Integrated,225990
+Apple,General,Apple,24,512,14,Integrated,187990
+Apple,General,Apple,24,1024,14,Integrated,201990
+Apple,General,Apple,16,1024,14,Integrated,182990
+Apple,General,Apple,16,512,14,Integrated,159900
+Acer,Gaming,Intel,16,512,15,Integrated,34990
+Msi,Gaming,AMD,32,1024,16,Dedicated,198900
+Hp,Gaming,Intel,16,512,15,Dedicated,63990
+Dell,General,Intel,16,512,14,Integrated,65990
+Hp,General,Intel,16,512,16,Dedicated,88999
+Hp,General,Intel,16,512,14,Integrated,96999
+Hp,General,Intel,16,512,14,Integrated,75999
+Hp,General,Intel,16,512,14,Integrated,90985
+Lenovo,Business,AMD,16,512,16,Integrated,58850
+Dell,Business,Intel,16,512,14,Integrated,36450
+Hp,General,AMD,8,512,15,Integrated,30990
+Infinix,Thin & Light,Intel,16,512,14,Integrated,69990
+Hp,General,Intel,16,512,14,Dedicated,97000
+Lenovo,Business,AMD,16,512,14,Integrated,64590
+Apple,Thin & Light,Apple,16,256,13,Integrated,93900
+Acer,General,Intel,8,512,14,Integrated,30990
+Hp,General,Intel,8,512,14,Integrated,36990
+Lenovo,General,Intel,8,128,15,Integrated,24990
+Dell,Convertible,Intel,16,512,14,Integrated,75990
+Hp,General,Intel,16,1024,15,Integrated,73500
+Hp,General,AMD,8,512,15,Integrated,52199
+Lenovo,Business,Intel,16,512,14,Integrated,79990
+Hp,General,AMD,8,512,15,Integrated,39800
+Acer,General,AMD,8,512,15,Integrated,28990
+Dell,General,Intel,8,512,15,Integrated,34990
+Lenovo,Thin & Light,AMD,8,512,14,Integrated,40490
+Acer,General,Intel,8,128,15,Integrated,22990
+Dell,General,Intel,8,512,15,Integrated,46990
+Lenovo,General,Intel,16,512,14,Integrated,83990
+Lenovo,Thin & Light,Snapdragon,16,1024,14,Integrated,71899
+Gigabyte,Gaming,Intel,16,1024,15,Dedicated,71399
+Acer,General,AMD,16,512,15,Integrated,34490
+Msi,General,Intel,16,512,15,Integrated,57590
+Asus,General,Intel,32,1024,14,Integrated,139990
+Hp,General,Intel,16,1024,16,Integrated,81799
+Lenovo,General,Intel,8,256,15,Integrated,23990
+Hp,General,Intel,16,512,15,Integrated,62499
+Acer,General,Intel,8,512,15,Integrated,30990
+Lenovo,General,Intel,8,512,14,Integrated,33990
+Dell,General,Intel,16,1024,14,Integrated,85512
+Asus,Thin & Light,Intel,16,512,15,Integrated,72990
+Gigabyte,Gaming,Intel,16,512,15,Dedicated,71399
+Lenovo,Gaming,Intel,24,512,15,Dedicated,135690
+Acer,Gaming,Intel,16,512,16,Dedicated,93806
+Acer,Gaming,Intel,16,1024,14,Dedicated,139999
+Asus,Gaming,AMD,16,512,15,Dedicated,70490
+Acer,General,AMD,16,1024,15,Integrated,44990
+Msi,Gaming,Intel,16,1024,16,Dedicated,135000
+Lenovo,General,Intel,16,512,14,Integrated,75999
+Acer,General,AMD,16,512,15,Integrated,36990
+Hp,General,Intel,16,1024,14,Integrated,119699
+Asus,Thin & Light,Intel,16,512,16,Dedicated,67138
+Lenovo,Convertible,Intel,16,512,14,Integrated,79990
+Lenovo,General,Intel,16,512,15,Integrated,43990
+Asus,Gaming,AMD,16,512,15,Dedicated,62500
+Acer,General,AMD,8,512,15,Integrated,38790
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,36990
+Acer,Gaming,Intel,16,512,15,Dedicated,64791
+Hp,General,Intel,8,1024,15,Integrated,55900
+Dell,General,Intel,8,512,14,Integrated,61990
+Lenovo,General,Intel,8,512,15,Integrated,35990
+Chuwi,General,Intel,16,512,15,Integrated,41990
+Samsung,General,Intel,16,1024,14,Integrated,145990
+Acer,General,Intel,16,1024,14,Integrated,45990
+Asus,Thin & Light,Intel,16,512,16,Dedicated,62990
+Asus,Gaming,AMD,16,1024,15,Dedicated,109990
+Msi,Gaming,AMD,32,1024,18,Dedicated,289990
+Asus,Thin & Light,Snapdragon,16,1024,15,Integrated,69994
+Acer,General,Intel,12,512,15,Integrated,48990
+Acer,General,Intel,16,512,15,Integrated,36541
+Samsung,General,Intel,8,512,15,Integrated,34990
+Asus,Gaming,AMD,32,2048,16,Dedicated,227999
+Msi,General,Intel,8,512,15,Integrated,33804
+Msi,General,Intel,32,2048,17,Dedicated,299990
+Asus,Thin & Light,AMD,16,512,15,Integrated,40990
+Asus,Thin & Light,AMD,16,512,15,Integrated,47800
+Msi,General,Intel,8,512,14,Integrated,31990
+Lenovo,Convertible,Snapdragon,32,1024,14,Integrated,139990
+Hp,General,Intel,32,1024,16,Dedicated,242999
+Hp,General,Intel,16,1024,16,Dedicated,176450
+Hp,General,Intel,8,512,15,Integrated,48500
+Hp,General,Intel,8,512,15,Integrated,37990
+Asus,Thin & Light,Intel,16,512,15,Integrated,35990
+Hp,Gaming,Intel,16,512,15,Dedicated,73000
+Asus,Gaming,AMD,16,512,15,Dedicated,83869
+Infinix,General,Intel,16,512,15,Integrated,45490
+Hp,General,Intel,16,512,15,Integrated,56990
+Infinix,General,Intel,16,512,16,Integrated,51990
+Dell,Thin & Light,Snapdragon,16,512,14,Integrated,88990
+Infinix,General,Intel,16,256,16,Integrated,30990
+Infinix,General,Intel,8,256,16,Integrated,29990
+Lenovo,Business,Intel,16,1024,14,Integrated,94990
+Acer,Gaming,Intel,16,512,15,Dedicated,61199
+Acer,Gaming,Intel,16,512,15,Dedicated,60990
+Dell,General,AMD,16,512,14,Integrated,60990
+Dell,General,AMD,16,1024,14,Integrated,69990
+Acer,General,Intel,16,512,15,Integrated,51990
+Gigabyte,Gaming,Intel,16,1024,16,Dedicated,170000
+Hp,General,AMD,16,512,16,Integrated,55990
+Hp,General,AMD,8,512,14,Integrated,36950
+Apple,Thin & Light,Apple,16,256,13,Integrated,107299
+Hp,Business,Intel,16,512,14,Integrated,67499
+Asus,Thin & Light,Intel,16,512,15,Integrated,95899
+Msi,General,Intel,16,512,15,Dedicated,89990
+Msi,General,Intel,16,512,15,Integrated,49990
+Dell,Business,Intel,8,512,15,Integrated,38490
+Dell,General,Intel,16,1024,15,Integrated,59990
+Lenovo,Gaming,Intel,24,512,15,Dedicated,76890
+Thomson,General,Intel,8,512,15,Integrated,28999
+Lenovo,Business,Intel,8,512,16,Integrated,48490
+Lenovo,Convertible,Intel,16,512,14,Integrated,94990
+Msi,General,Intel,16,512,14,Integrated,52511
+Dell,Thin & Light,Snapdragon,16,1024,14,Integrated,111490
+Lenovo,Thin & Light,Intel,16,512,16,Integrated,70990
+Lenovo,General,Intel,8,512,14,Integrated,32890
+Acer,General,Intel,4,256,15,Integrated,45290
+Acer,General,Intel,8,512,14,Integrated,53290
+Lenovo,Business,Intel,8,512,14,Integrated,66490
+Lenovo,General,Intel,4,64,11,Integrated,14999
+Hp,Gaming,Intel,16,512,15,Dedicated,59490
+Hp,General,Intel,16,512,14,Integrated,54380
+Asus,Thin & Light,Intel,16,512,15,Integrated,45990
+Acer,Gaming,Intel,16,1024,16,Dedicated,184799
+Lenovo,Convertible,Intel,32,1024,13,Integrated,219990
+Lenovo,Convertible,Intel,32,1024,16,Dedicated,166214
+Lenovo,Convertible,Intel,32,1024,14,Integrated,179990
+Acer,Gaming,AMD,16,512,15,Dedicated,67990
+Hp,Gaming,Intel,16,512,15,Dedicated,79199
+Hp,General,Intel,8,256,15,Integrated,49990
+Hp,Thin & Light,Snapdragon,16,1024,14,Integrated,126117
+Lenovo,General,AMD,16,512,15,Integrated,41999
+Lenovo,Gaming,Intel,24,512,15,Dedicated,70000
+Acer,General,Intel,8,512,15,Integrated,60780
+Asus,Gaming,AMD,16,512,15,Dedicated,65999
+Thomson,General,Intel,4,128,14,Integrated,13507
+Msi,General,Intel,16,1024,15,Integrated,57990
+Asus,Gaming,Intel,16,512,15,Dedicated,80999
+Hp,Gaming,Intel,16,1024,15,Dedicated,79999
+Asus,Gaming,AMD,16,512,15,Dedicated,60990
+Asus,Gaming,AMD,8,512,15,Dedicated,59820
+Hp,Gaming,Intel,16,512,15,Dedicated,61370
+Hp,General,AMD,16,512,15,Integrated,42990
+Hp,General,AMD,8,512,15,Integrated,33200
+Hp,Gaming,Intel,16,1024,15,Dedicated,73626
+Asus,Gaming,AMD,16,512,15,Dedicated,69742
+Acer,General,Intel,16,512,15,Dedicated,119755
+Hp,General,Intel,16,512,14,Integrated,83990
+Air,Thin & Light,Intel,8,512,14,Integrated,29990
+Hp,General,Intel,16,512,14,Integrated,82000
+Acer,General,Intel,8,256,14,Integrated,21990
+Acer,General,Intel,8,512,14,Integrated,22990
+Thomson,General,Intel,16,512,15,Integrated,33490
+Dell,Thin & Light,Snapdragon,32,1024,13,Integrated,179490
+Dell,Thin & Light,Snapdragon,16,512,13,Integrated,159990
+Acer,General,Intel,8,256,15,Integrated,23495
+Acer,General,Intel,8,512,15,Integrated,23990
+Acer,General,Intel,16,1024,15,Dedicated,170199
+Microsoft,Thin & Light,Snapdragon,16,512,15,Integrated,144008
+Microsoft,Thin & Light,Snapdragon,16,1024,13,Integrated,174099
+Microsoft,Thin & Light,Snapdragon,32,1024,13,Integrated,224099
+Microsoft,Thin & Light,Snapdragon,16,512,13,Integrated,126999
+Microsoft,Thin & Light,Snapdragon,32,1024,13,Integrated,202990
+Microsoft,Thin & Light,Snapdragon,16,1024,13,Integrated,170990
+Microsoft,Thin & Light,Snapdragon,16,1024,15,Integrated,156774
+Microsoft,Thin & Light,Snapdragon,16,256,15,Integrated,134000
+Microsoft,Thin & Light,Snapdragon,16,512,13,Integrated,129990
+Thomson,General,Intel,4,128,15,Integrated,16699
+Acer,Gaming,Intel,8,512,15,Integrated,33938
+Dell,Thin & Light,Snapdragon,16,512,14,Integrated,96448
+Dell,Thin & Light,Snapdragon,16,512,13,Integrated,144990
+Dell,Business,Intel,8,512,15,Integrated,34990
+Hp,General,AMD,16,512,13,Integrated,76318
+Lenovo,General,Intel,16,512,14,Integrated,36415
+Lenovo,Gaming,AMD,16,512,15,Dedicated,86990
+Infinix,General,Intel,16,512,15,Integrated,98990
+Colorful,Gaming,Intel,16,512,15,Dedicated,99999
+Colorful,Gaming,Intel,16,512,15,Dedicated,90199
+Lenovo,Thin & Light,Intel,8,512,15,Integrated,41460
+Lenovo,Convertible,Intel,16,1024,14,Dedicated,139990
+Lenovo,Gaming,AMD,12,512,15,Dedicated,66990
+Hp,General,AMD,16,512,13,Integrated,73861
+Lenovo,Thin & Light,Intel,16,512,15,Integrated,55175
+Lenovo,Gaming,AMD,24,512,15,Dedicated,92490
+Gigabyte,General,Intel,16,512,15,Dedicated,78800
+Gigabyte,General,Intel,16,512,16,Dedicated,86990
+Msi,Gaming,AMD,16,1024,17,Dedicated,95990
+Hp,General,Intel,8,512,15,Integrated,42251
+Hp,General,Intel,8,256,15,Integrated,33240
+Lenovo,Gaming,AMD,24,512,15,Dedicated,98990
+Asus,Gaming,Intel,16,512,15,Dedicated,92990
+Lenovo,Gaming,AMD,16,512,15,Dedicated,70990
+Asus,Gaming,AMD,16,512,15,Dedicated,65990
+Lenovo,Thin & Light,Intel,8,512,14,Integrated,33290
+Asus,General,Intel,8,128,15,Integrated,26999
+Asus,Thin & Light,Intel,16,1024,15,Integrated,119990
+Asus,Gaming,AMD,16,512,15,Dedicated,57990
+Lenovo,General,Intel,16,512,14,Integrated,69990
+Lenovo,Thin & Light,Intel,8,512,14,Integrated,48490
+Lenovo,Thin & Light,Intel,16,512,14,Integrated,88999
+Asus,Thin & Light,Snapdragon,16,1024,15,Integrated,84834
+Lenovo,General,Intel,8,512,14,Integrated,28802
+Hp,Convertible,Intel,16,1024,16,Integrated,120888
